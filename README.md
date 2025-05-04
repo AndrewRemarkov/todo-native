@@ -20,5 +20,5 @@
 
 1. Склонируй репозиторий:
    ```bash
-   git clone https://github.com/username/todo-app.git
+   git clone git@github.com:AndrewRemarkov/todo-native.git
    ```
